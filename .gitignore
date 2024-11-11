@@ -1,0 +1,38 @@
+# Node/Deno related
+node_modules/
+pnpm-lock.yaml
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# Deno specific
+deno.lock
+*.deno_dir/
+*.deno_cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs and temp files
+*.log
+*.temp
+tmp/
+
+# Data files (can specify specific patterns later if needed)
+*.csv
+*.json
+
+# GitHub Actions artifacts
+.github/workflows/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# IDE-specific files
+.vscode/
+.idea/
