@@ -1,0 +1,22 @@
+your-repo/
+│
+├── assets/
+│   ├── images/
+│   └── fonts/
+│
+├── css/
+│   ├── styles.css
+│   └── reset.css
+│
+├── js/
+│   ├── main.js
+│   ├── formGenerator.js
+│   └── utils.js
+│
+├── templates/
+│   └── markdownTemplate.hbs
+│
+├── index.html
+├── about.html
+├── contact.html
+└── README.md
